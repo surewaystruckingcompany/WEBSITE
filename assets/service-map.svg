@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700">
+  <rect width="1000" height="700" fill="#f8fbff"/>
+  <g opacity=".8">
+    <path d="M183 94l114 59-43 88 94 84-72 145 118 92-66 84 141-16 71-92 127 34 77-101-58-104 79-109-124-73-121 22-83-88-99 16-52-61z" fill="#dce9fb" stroke="#93afd6" stroke-width="10"/>
+  </g>
+  <path d="M233 462c90-106 187-157 289-174 101-17 224-8 337 28" fill="none" stroke="#ef6c1f" stroke-width="14" stroke-linecap="round" stroke-dasharray="18 18"/>
+  <g fill="#0b2a59">
+    <circle cx="244" cy="452" r="16" fill="#ef6c1f"/>
+    <circle cx="526" cy="298" r="16" fill="#ef6c1f"/>
+    <circle cx="829" cy="336" r="16" fill="#ef6c1f"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#123d7a">
+    <text x="194" y="495" font-size="30" font-weight="700">Los Angeles</text>
+    <text x="466" y="264" font-size="30" font-weight="700">Inland Empire</text>
+    <text x="770" y="388" font-size="30" font-weight="700">Orange County</text>
+  </g>
+  <rect x="92" y="74" width="262" height="86" rx="16" fill="#fff" stroke="#d5e1f1"/>
+  <text x="126" y="126" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#0b2a59">Service Area Map</text>
+</svg>
